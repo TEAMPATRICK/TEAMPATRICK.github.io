@@ -1,0 +1,41 @@
+.html {
+	width: 400;
+	height: 750;
+}
+
+.navbar {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	display: inline-block;
+	float: none;
+	vertical-align: top;
+}
+
+.head {
+    width: 100%;
+    height: 100px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+	font-family: 'Jua', sans-serif;
+	text-align: center;
+}
+
+.container {
+	width: 100%;
+	position: center;
+}
+
+.catalogue {
+	width: 100%;
+}
+
+.card {
+    margin: 1.2em;
+}
+
+label, input[type], p.register-help {
+    font-size: 0.75em;
+}
